@@ -1,0 +1,29 @@
+segment_sources:
+  IFA423651:
+    type: origin_type
+    relation: translation
+    lang: sa
+    base: '9793'
+  I53ABAF09:
+    type: origin_type
+    relation: translation
+    lang: zh
+    base: 193B
+  IE7DD14B9:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: 81C6
+segment_pairs:
+  aea7414d8f2a436ea5145ace271d1da2:
+    IFA423651: c737a0b3e82d4ab2923c10cad88381f9
+    I53ABAF09: 3396c8b7ff0c4ba29b97fef4ae3662dd
+    IE7DD14B9: b564722df3d849e5a8bd9c9f44c5fae5
+  0040bd4270b74adba3543ef5a7617933:
+    IFA423651: 14acd4d6d1fc4fd9b7952cebd4d34233
+    I53ABAF09: 64af7b7193934693b0d4577abcfd8995
+    IE7DD14B9: d561cdf9b4f241d39c84afe0f798b825
+  427e42620c134f90b917e9a86ba5fa14:
+    IFA423651: f24b214fff984653a2ea4b670f43cdb3
+    I53ABAF09: 76846d470f9f4949bb7ae7b46c65a71a
+    IE7DD14B9: 4930fd17ac0e4c94b8dd1de0a52ab29f
